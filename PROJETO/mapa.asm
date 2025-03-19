@@ -3,6 +3,7 @@
 
 .data
         ; Mensagem de tentativas restantes
+        ;
         tentativas db 'Tentativas restantes -> $',10,13
 
         ; Mapa do jogo
